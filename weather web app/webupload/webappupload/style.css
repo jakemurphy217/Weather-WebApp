@@ -1,0 +1,78 @@
+#homebody{
+  background-image:url(homeb.jpg);
+  background-size:cover;
+  color:white;
+  text:bold
+  height: 100%;
+}
+
+#searchbody{
+  background-image:url(searchb.jpg);
+  background-size:cover;
+  color:white;
+  text:bold;
+  
+}
+
+#favouritebody{
+  background-image:url(favouriteb.jpg);
+  background-size: cover;
+  color:white ;
+}
+
+#waffle{
+  color:white;
+}
+
+
+.jumbotron{
+  background-image:url(sky1.png);
+  color:white;
+}
+#searchjumbo{
+  background-image:url(sky.jpg);
+}
+
+
+input[type="text"]{
+    height: 40px;
+    font-size: 20px;
+    color:black;
+}
+#submitWeather{
+    height: 40px;
+    font-size: 20px;
+    font-weight:bold;
+}
+#favourite{
+ height: 40px;
+ font-size: 20px;
+ font-weight:bold;
+
+}
+.btn{
+  color:white;
+}
+#footer{
+background: ;
+  min-height:150px;
+  color:#fff;
+  text-align:center;
+  
+}
+.login{
+  width:360px;
+  margin:50px auto;
+  font:cabria;
+  border-radius:10px;
+  border:2px;
+  margin-top:70px;
+  
+  
+}
+
+#loginbody{
+  background-image:url(contactb.jpg);
+  color:white;
+}
+
